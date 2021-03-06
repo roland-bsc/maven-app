@@ -14,6 +14,6 @@
 <body>
  <h1 align="center">Caltech Simplilearn 2021</h1>
 <h1 align="center">Congrats - your app deployed on Tomcat!</h1>
-<h2 align="center">This is cool huh?!</h2>
+<h2 align="center">This is cool, Coy!</h2>
 </body>
 </html>
